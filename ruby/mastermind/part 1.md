@@ -1,19 +1,5 @@
 # Mastermind
 
-<style>
-.pub-sidebar {
-  width: 500px;
-  font-size: 14px;
-  margin-left: auto ;
-  margin-right: auto ;
-  padding: 20px;
-  background: none repeat scroll 0% 0% #EEEEDD;
-  border: 1px solid #DBDBCC;
-  box-shadow: 3px 3px 5px #999;
-  border-radius: 0.7em;
-}
-</style>
-
 This article is the first part of a TDD (test driven development) example in Ruby. It implements a game named _Mastermind_.
 
 We are going to split the tests in two parts: _the tests for the rules_ and _the tests for the game_. We show all the tests first so that the reader can implement them before reading the solution presented here.
@@ -874,4 +860,4 @@ Finished in 0.001119842 seconds.
 
 
 
-_Jean Lazarou  (Feb 28, 2016 - 08:23AM)_
+_Jean Lazarou  (Dec 10, 2012 - 11:16PM)_
