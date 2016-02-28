@@ -1,5 +1,5 @@
 
-#  The`tutorials` project
+#  The _tutorials_ project
 
 This project contains various programming tutorials, mainly for the _Ruby_ language at this point of time.
 
